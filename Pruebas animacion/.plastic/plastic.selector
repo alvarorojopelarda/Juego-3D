@@ -1,0 +1,4 @@
+repository "Pruebas animacion@alvarorp27@cloud"
+  path "/"
+    br "/main"
+    co "/main"
